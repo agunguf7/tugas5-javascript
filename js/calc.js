@@ -30,7 +30,6 @@ function hitung(operator) {
         hasil = "Error";
     }
 
-    console.log(hasil);
     document.getElementById('hasil2').value = hasil;
   }
 }
